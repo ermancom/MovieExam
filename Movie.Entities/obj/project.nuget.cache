@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VEBkESRyDbArGCZi05ZEUtErkCAyH3rDpu6sYNVBLEOX9Et+kKRp225tv70/MAdFD0BRQuhiOa/BlpCjCxkhLA==",
+  "success": true,
+  "projectFilePath": "D:\\Workspace\\MovieApiExam\\Movie.Entities\\Movie.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ERMAN\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

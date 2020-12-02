@@ -1,0 +1,9 @@
+D:\Workspace\MovieApiExam\Movie.Utility\bin\Debug\netcoreapp3.1\Movie.Utilities.deps.json
+D:\Workspace\MovieApiExam\Movie.Utility\bin\Debug\netcoreapp3.1\Movie.Utilities.dll
+D:\Workspace\MovieApiExam\Movie.Utility\bin\Debug\netcoreapp3.1\Movie.Utilities.pdb
+D:\Workspace\MovieApiExam\Movie.Utility\obj\Debug\netcoreapp3.1\Movie.Utilities.AssemblyInfoInputs.cache
+D:\Workspace\MovieApiExam\Movie.Utility\obj\Debug\netcoreapp3.1\Movie.Utilities.AssemblyInfo.cs
+D:\Workspace\MovieApiExam\Movie.Utility\obj\Debug\netcoreapp3.1\Movie.Utilities.csproj.CoreCompileInputs.cache
+D:\Workspace\MovieApiExam\Movie.Utility\obj\Debug\netcoreapp3.1\Movie.Utilities.dll
+D:\Workspace\MovieApiExam\Movie.Utility\obj\Debug\netcoreapp3.1\Movie.Utilities.pdb
+D:\Workspace\MovieApiExam\Movie.Utility\obj\Debug\netcoreapp3.1\Movie.Utilities.csprojAssemblyReference.cache

@@ -1,0 +1,17 @@
+D:\Workspace\MovieApiExam\Movie.BusinessLayer\bin\Debug\netcoreapp3.1\SqlFiles\DataSeed.sql
+D:\Workspace\MovieApiExam\Movie.BusinessLayer\bin\Debug\netcoreapp3.1\Movie.BusinessLayer.deps.json
+D:\Workspace\MovieApiExam\Movie.BusinessLayer\bin\Debug\netcoreapp3.1\Movie.BusinessLayer.dll
+D:\Workspace\MovieApiExam\Movie.BusinessLayer\bin\Debug\netcoreapp3.1\Movie.BusinessLayer.pdb
+D:\Workspace\MovieApiExam\Movie.BusinessLayer\bin\Debug\netcoreapp3.1\Movie.Database.dll
+D:\Workspace\MovieApiExam\Movie.BusinessLayer\bin\Debug\netcoreapp3.1\Movie.Entities.dll
+D:\Workspace\MovieApiExam\Movie.BusinessLayer\bin\Debug\netcoreapp3.1\Movie.Utilities.dll
+D:\Workspace\MovieApiExam\Movie.BusinessLayer\bin\Debug\netcoreapp3.1\Movie.Database.pdb
+D:\Workspace\MovieApiExam\Movie.BusinessLayer\bin\Debug\netcoreapp3.1\Movie.Entities.pdb
+D:\Workspace\MovieApiExam\Movie.BusinessLayer\bin\Debug\netcoreapp3.1\Movie.Utilities.pdb
+D:\Workspace\MovieApiExam\Movie.BusinessLayer\obj\Debug\netcoreapp3.1\Movie.BusinessLayer.csprojAssemblyReference.cache
+D:\Workspace\MovieApiExam\Movie.BusinessLayer\obj\Debug\netcoreapp3.1\Movie.BusinessLayer.AssemblyInfoInputs.cache
+D:\Workspace\MovieApiExam\Movie.BusinessLayer\obj\Debug\netcoreapp3.1\Movie.BusinessLayer.AssemblyInfo.cs
+D:\Workspace\MovieApiExam\Movie.BusinessLayer\obj\Debug\netcoreapp3.1\Movie.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Workspace\MovieApiExam\Movie.BusinessLayer\obj\Debug\netcoreapp3.1\Movie.BusinessLayer.csproj.CopyComplete
+D:\Workspace\MovieApiExam\Movie.BusinessLayer\obj\Debug\netcoreapp3.1\Movie.BusinessLayer.dll
+D:\Workspace\MovieApiExam\Movie.BusinessLayer\obj\Debug\netcoreapp3.1\Movie.BusinessLayer.pdb

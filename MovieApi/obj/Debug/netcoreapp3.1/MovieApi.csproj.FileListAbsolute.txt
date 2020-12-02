@@ -1,0 +1,9 @@
+D:\Workspace\MovieApiExam\MovieApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Workspace\MovieApiExam\MovieApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Workspace\MovieApiExam\MovieApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Workspace\MovieApiExam\MovieApi\obj\Debug\netcoreapp3.1\MovieApi.csprojAssemblyReference.cache
+D:\Workspace\MovieApiExam\MovieApi\obj\Debug\netcoreapp3.1\MovieApi.AssemblyInfoInputs.cache
+D:\Workspace\MovieApiExam\MovieApi\obj\Debug\netcoreapp3.1\MovieApi.AssemblyInfo.cs
+D:\Workspace\MovieApiExam\MovieApi\obj\Debug\netcoreapp3.1\MovieApi.RazorTargetAssemblyInfo.cache
+D:\Workspace\MovieApiExam\MovieApi\obj\Debug\netcoreapp3.1\staticwebassets\MovieApi.StaticWebAssets.Manifest.cache
+D:\Workspace\MovieApiExam\MovieApi\obj\Debug\netcoreapp3.1\staticwebassets\MovieApi.StaticWebAssets.xml
